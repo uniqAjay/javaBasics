@@ -1,10 +1,8 @@
 package sectionTwoOOPs;
 
 public class polymorephism {
-	
-//	Polymorphism allows objects of different types to be treated as objects of a common type.
-//	This enables code to be more flexible and extensible.
-
+//	Polymorphism in Java allows the same method to perform different behaviors depending on the context
+//  it helps with flexibility and clean code, especially in inheritance and interfaces.
 
 	    // Method to add two integers
 	    public int add(int a, int b) {
@@ -29,3 +27,17 @@ public class polymorephism {
 	    }
 	}
 
+
+//Compile-time
+
+//Happens before the program runs.
+//The Java compiler checks for errors.
+//Example: syntax errors, method overloading.
+
+
+
+//Run-time
+
+//Happens when the program runs.
+//Java figures out the correct method/object behavior during execution.
+//Example: method overriding, exceptions.

@@ -2,7 +2,7 @@ package sectionThreeImp;
 
 public class Array {
 	
-//	An array in Java is a data structure that allows you to store a fixed-size sequential collection of elements of the same data type.
+//	An array in Java is a data structure that allows you to store a fixed-size sequential collection of elements which has he same data type.
 //	Each element in the array is identified by an index or a key
 	
 	    public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class Array {
 
 	        // Accessing and printing array length (property of the object)
 	        System.out.println("Array length: " + numbers.length);
-
+	       
 	        // Using toString() method inherited from Object class
 	        System.out.println("Array as a string: " + numbers.toString());
 

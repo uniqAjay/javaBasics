@@ -5,7 +5,7 @@ public class controlStatement {
 	
 
 //		In Java, control statements are used to control the flow of execution in a program.
-//		These statements enable you to make decisions, loop through code, and execute code based on certain conditions.
+//		These statements enable you to make decisions and execute code based on certain conditions.
 //		Here are the main types of control statements in Java:
 
 //		Selection Statements:

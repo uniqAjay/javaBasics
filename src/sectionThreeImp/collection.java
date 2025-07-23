@@ -3,12 +3,13 @@ package sectionThreeImp;
 public class collection {
 	
 //	collection framework:
-//		Is set of classes and interface that impements commanly reusable collection data structures
+//		Is set of classes and interface that implements commonly reusable collection data structures
 	
 	
 //	collections utility  class
-//	collections utility class in the java collection framework that provide static methods to operate on collections it contains methods such as
-//	sorting, shuffling, reversing , seraching etc. which can be applied to collection like list, set, Map.
+//	collections utility class in the java collection framework that provide static methods to operate on
+//	collections it contains methods such as
+//	sorting, shuffling, reversing , searching etc. which can be applied to collection like list, set, Map.
 	
 //	java Collections Framework:
 
@@ -39,15 +40,7 @@ public class collection {
 //		Offers flexibility in choosing the appropriate data structure for specific use cases.
 //		Enhances code readability and maintainability.
 //		Role in Java Programming:
-//
-//	6	A fundamental part of Java development.
-//		Widely used for tasks involving data storage, retrieval, and manipulation.
-//		Facilitates efficient and structured handling of collections.
-//		In summary, the Java Collections Framework is a robust and essential component of Java programming, 
-//		providing a standardized way to work with collections of objects and offering flexibility and efficiency in data manipulation.
-	
-	
-	
+
 		
 		
 		

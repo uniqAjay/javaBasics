@@ -8,6 +8,8 @@ public class variablesAndDataTypes {
 			String empName = "Ajay";
 			
 			System.out.println("Employee "+Id+" is " +empName);
+			
+			
 	}
 	
 //Data Types

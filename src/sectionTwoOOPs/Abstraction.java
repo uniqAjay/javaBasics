@@ -4,8 +4,8 @@ public class Abstraction {
 	
 //	Abstraction in Java:
 //
-//		Definition: Abstraction is a key concept in Java that involves simplifying complex systems by modeling classes based on essential features and ignoring unnecessary details.
-//
+//		Definition: Abstraction is the process of hiding the implementation details and showing only the essential features of an object.
+//	 				In Java, abstraction is achieved through abstract classes and interfaces.
 //		Mechanism:
 //
 //		Abstract Class: A class that cannot be instantiated and may contain both abstract (unimplemented) and concrete (implemented) methods.

@@ -1,4 +1,4 @@
-package sectionFourPatternprog;
+package sectionFourLogicalPrograms;
 
 public class printHexagon {
 	 public static void main(String[] args) {
